@@ -19,6 +19,7 @@ This project is largely based on the course "Building Automonous AI Agents with 
 - Make an .env file containing API keys.
 - Install the required packages.
 - There are a couple of bug updates that I had to do (mainly Sqlite) so it's a little different from original source code. 
+
 If you are able to understand LangGraph and utilize to your own cases, that would serves as the greater purpose of this project.
 
 
